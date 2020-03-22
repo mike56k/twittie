@@ -121,10 +121,10 @@ namespace Twittie
             boxes[2] = textBox3;
             boxes[3] = textBox4;
 
-            boxes[0].Text = "og_seekg";
-            boxes[1].Text = "@xS=tJ%)xhK6T;9";
-            boxes[2].Text = "SuperSir7";
-            boxes[3].Text = "kaRboew89";
+            boxes[0].Text = "";
+            boxes[1].Text = "";
+            boxes[2].Text = "";
+            boxes[3].Text = "";
             for (int i = 0, j=0; i < accs.Length; i+=1, j+=2 )
             {
                 //accs[i].web = new OpenQA.Selenium.Chrome.ChromeDriver();
